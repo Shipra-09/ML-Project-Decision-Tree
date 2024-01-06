@@ -57,7 +57,7 @@ Exploring Insights/Inferences by performing EDA on the given data. Relevant grap
   ***
   ## Iphone Purchase data Probelm: 
   
-  *File name: Iphont-purchase-data files*
+  *File name: Iphone-purchase-data files*
   
   #### EDA Inferences:
   * There are total 198 and 182 Females and Males, respectively.
@@ -73,7 +73,7 @@ Exploring Insights/Inferences by performing EDA on the given data. Relevant grap
 
 
  
-  #### Logistic Regression Model Results:
+  #### Decision Tree Model Results:
   The accuracy of the model is came out to be:
   
   **Accuracy Score: 0.92**
